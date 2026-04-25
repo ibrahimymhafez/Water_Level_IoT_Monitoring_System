@@ -22,6 +22,10 @@ LED indicators provide **on-site danger alerts** based on the current water leve
 - **Wi-Fi Connectivity**
 
 ---
+## Prototype 
+![Prototype Picture](images/Prototype 01.jpg)
+
+---
 
 ## 🚀 Features
 - Automated **data collection and cloud reporting** via Blynk.  
