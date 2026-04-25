@@ -24,6 +24,7 @@ LED indicators provide **on-site danger alerts** based on the current water leve
 ---
 ## Prototype 
 ![Prototype Picture](images/Prototype 01.jpg)
+![Prototype](images/Prototype 03.jpg)
 
 ---
 
